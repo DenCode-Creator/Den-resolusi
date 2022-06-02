@@ -1,3 +1,4 @@
 - Javascript
 - php
 - Bikin konten web dev
+- Fundamental dasar
