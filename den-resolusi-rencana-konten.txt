@@ -2,3 +2,6 @@
 - php
 - Bikin konten web dev
 - Fundamental dasar
+- Vue
+- Laravel
+- Pyton
